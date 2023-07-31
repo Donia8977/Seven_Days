@@ -31,4 +31,6 @@ class MainActivity : AppCompatActivity() {
     }
        var nameMonth : String ="December"
        var year = 2001
+       var week = 7
+       var name ="yassin"
     }
