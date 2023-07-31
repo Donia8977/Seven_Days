@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
 
 
     }
-       var nameMonth : String ="December"
-       var year = 2001
-       var day = 20
+      var girlname: String = "Donia "
+    var boyname: String = "Yassin "
+
     }
